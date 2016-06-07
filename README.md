@@ -1,1 +1,1 @@
-# android_hardware_qcom_display_caf-sdhi
+# android_hardware_qcom_display-caf-sdhi
